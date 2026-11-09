@@ -1,0 +1,15 @@
+{
+    "subject_col": "image_id",
+    "label_col_clas": "diagnosis",
+    "label_col_reg": "doctor_predicted_age",
+    "crop_size_3d":  [215, 234, 42],
+    "crop_size_2d": [1300, 1500],
+    "classes": {
+        "normal": "normal",
+        "premature": "premature"
+    },
+    "img_files": [
+        "t2_restore_regist2.nii.gz"
+    ],
+    "modality": "mri"
+}
