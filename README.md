@@ -171,3 +171,27 @@ reruns may not be bit-identical to earlier runs.
 The training framework is derived from [MyelinAge](https://github.com/wasserth/MyelinAge)
 and has been modified for this work. MyelinAge is licensed under the Apache License 2.0, see
 `THIRD_PARTY_LICENSES/MyelinAge-Apache-2.0.txt`.
+
+## Publication
+
+Park H, Choi YH, Gho SM. Infant Brain Age Estimation With T1w/T2w Ratio MRI: A
+Myelination-Aware Deep Learning Approach. *Journal of Magnetic Resonance Imaging*.
+2026;64(3):787-801. [https://doi.org/10.1002/jmri.70376](https://doi.org/10.1002/jmri.70376)
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{Park_2026,
+  title   = {Infant Brain Age Estimation With T1w/T2w Ratio {MRI}: A Myelination-Aware Deep Learning Approach},
+  author  = {Park, Hyeryn and Choi, Young Hun and Gho, Sung-Min},
+  journal = {Journal of Magnetic Resonance Imaging},
+  volume  = {64},
+  number  = {3},
+  pages   = {787--801},
+  year    = {2026},
+  publisher = {Wiley},
+  doi     = {10.1002/jmri.70376}
+}
+```
